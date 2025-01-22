@@ -1,4 +1,4 @@
-import LeadOrganizer from '../components/lead-organizer';
+import LeadOrganizer from '@/components/lead-organizer';
 
 export default function Home() {
   return (
